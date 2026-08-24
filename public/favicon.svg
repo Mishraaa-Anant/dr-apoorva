@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="apoorvaFavGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F766E"/>
+      <stop offset="60%" stop-color="#0D9488"/>
+      <stop offset="100%" stop-color="#6366F1"/>
+    </linearGradient>
+    <linearGradient id="pawAccent" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,0.9)"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="88" height="88" rx="26" fill="url(#apoorvaFavGrad)"/>
+  <circle cx="50" cy="50" r="38" stroke="rgba(255, 255, 255, 0.25)" stroke-width="2" stroke-dasharray="4 3"/>
+  <path d="M44 26 H56 V44 H74 V56 H56 V74 H44 V56 H26 V44 H44 Z" fill="rgba(255, 255, 255, 0.18)"/>
+  <path d="M34 68 C31 65 29 59 30 52 C30 46 34 40 37 36 C38 34 39 30 40 27 C41 29 44 33 46 36 C49 39 52 44 51 49 C47 48 43 51 42 55 C41 58 42 62 44 65 C41 67 37 68 34 68 Z" fill="url(#pawAccent)"/>
+  <path d="M66 68 C68 64 70 59 69 53 C68 47 64 42 63 37 C61 33 63 29 64 26 C62 28 59 31 57 34 C54 38 52 43 53 47 C57 48 60 51 60 55 C60 58 59 62 57 65 C60 67 63 68 66 68 Z" fill="url(#pawAccent)"/>
+  <circle cx="50" cy="53" r="5" fill="#FFFFFF"/>
+  <circle cx="50" cy="53" r="2.5" fill="#0F766E"/>
+  <circle cx="50" cy="22" r="3" fill="#FFFFFF"/>
+  <circle cx="43" cy="24" r="2.2" fill="#FFFFFF"/>
+  <circle cx="57" cy="24" r="2.2" fill="#FFFFFF"/>
+</svg>
